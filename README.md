@@ -3,7 +3,7 @@ Car Deal Finder
 
 Predicts what a used car should cost from its specs, then flags listings priced well below that value.
 
-How the model works
+How the model will work (hopefully)
 
 Load the cars CSV and drop rows with missing or zero prices.
 
